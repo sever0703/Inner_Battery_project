@@ -152,6 +152,7 @@ cython_debug/
 .idea/
 config.py
 Scripts
+films.txt
 # Created by https://www.toptal.com/developers/gitignore/api/windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows
 
