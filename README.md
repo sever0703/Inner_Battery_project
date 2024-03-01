@@ -1,2 +1,3 @@
 # Inner_Battery_project
- M first bot
+___
+It is my first telegram bot. You can use it to boost your **motivation** 💡
