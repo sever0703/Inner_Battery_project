@@ -18,7 +18,7 @@ def reply_buttons(message: telebot.types.Message, ):
 
 
 @bot.message_handler(func=lambda message: message.text == 'Цитата дня')
-def get_cit(message: telebot.types.Message):
+def get_citatio(message: telebot.types.Message):
     with open("citations.txt", "r", encoding="utf-8") as file:
         cites = file.read().split("\n")
     cite = random.choice(cites)
